@@ -1,2 +1,2 @@
 # w3cExample
-Just a simulate repository copying from W3C, most codes relating jQuery and DOM
+考证学习记录及心得体会
